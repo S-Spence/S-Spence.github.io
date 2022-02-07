@@ -36,7 +36,7 @@ I made several enhancements to this repository. First, I fixed the structural is
 This artifact met all enhancements discussed in the project proposal and code review. I added the unit tests to the linked list folder. The only alteration I made to my plan in this section was to leave the manual tests for the “merge multi-level linked lists” challenge. This challenge came from an Udemy course that provided some great test methods to visualize the multi-level linked list before and after flattening. These testing methods helped explain the problem and seemed more valuable than unit tests. I cited the author of the test functions in the code comments. The image below demonstrates the manual tests for the multi-level linked list challenge.
 
 
- <img src="./assets/Linked_List_Test_IMG.png" alt="LL Tests" class="center"> 
+ <img src="./assets/Linked_List_Test_IMG.png" alt="LL Tests" align="center"> 
 
 
 I also fixed the structural inconsistencies in the strings and arrays folder outlined in the code review. I updated the ‘binary string consecutive ones,” “max hour-glass sum,” and “ransom note” challenges to have consistent styling and testing with the rest of the folder. I also updated tests and comments in the “implement queue with stacks” and “LRU cache” challenges. Another enhancement for this project was adding twelve more challenges for 2D arrays, graphs, tries, and dynamic programming. I outlined the challenges added to each of the sections below.
@@ -76,7 +76,7 @@ The graph challenges gave me a deeper understanding of how these data structures
 Working on the dynamic programming challenges was also a valuable learning experience because I had not practiced much with dynamic programming. The scripts included in this folder evaluated both top-down and bottom-up dynamic programming. For example, in the “minimum cost of climbing stairs” challenge, the top-down approach started at the top stair and worked backward, and the bottom-up approach built the solution starting from the base case. The bottom-up approach optimized the algorithm’s space complexity to O(1). However, the bottom-up approach is not always as intuitive as the top-down method, and it may require trying both to get to the final solution (Neagoie, 2022). I found it difficult to understand these techniques, and I had to rewatch tutorials multiple times to comprehend dynamic programming. Including three new dynamic programming scripts gave me a better understanding of this coding paradigm.
 
 
-<h1 align="center">References</h1>
+<h4 align="center">References</h4>
 <ol>
   <li>
     <p>Neagoie, A. (January 2022). <cite>Ace the Google, Amazon, Facebook, Microsoft, Netflix Coding Interviews. Step by Step Guide for Their Toughest Questions</cite>.<i>Udemy</i>. https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/learn/lecture/22518902#overview </p>
