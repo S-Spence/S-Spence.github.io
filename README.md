@@ -36,7 +36,7 @@ I made several enhancements to this repository. First, I fixed the structural is
 This artifact met all enhancements discussed in the project proposal and code review. I added the unit tests to the linked list folder. The only alteration I made to my plan in this section was to leave the manual tests for the “merge multi-level linked lists” challenge. This challenge came from an Udemy course that provided some great test methods to visualize the multi-level linked list before and after flattening. These testing methods helped explain the problem and seemed more valuable than unit tests. I cited the author of the test functions in the code comments. The image below demonstrates the manual tests for the multi-level linked list challenge.
 
 
-<p style="text-align: center;"><img src="./assets/Linked_List_Test_IMG.png" alt="LL Tests"></p> 
+<h4 align="center"><img src="./assets/Linked_List_Test_IMG.png" alt="LL Tests" height="400" width="400"></h4> 
 
 
 I also fixed the structural inconsistencies in the strings and arrays folder outlined in the code review. I updated the ‘binary string consecutive ones,” “max hour-glass sum,” and “ransom note” challenges to have consistent styling and testing with the rest of the folder. I also updated tests and comments in the “implement queue with stacks” and “LRU cache” challenges. Another enhancement for this project was adding twelve more challenges for 2D arrays, graphs, tries, and dynamic programming. I outlined the challenges added to each of the sections below.
