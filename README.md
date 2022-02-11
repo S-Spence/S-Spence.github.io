@@ -21,7 +21,7 @@ A full-stack program designed to manage search and rescue animals for Grazioso S
 I selected the search and rescue animal application to broaden my skill set as a full-stack developer. I introduced three new features to help Grazioso Salvare’s staff manage the database. These improvements applied to the software design and engineering category of my portfolio. These enhancements demonstrate my ability to plan project improvements to meet user requirements. I included a use case diagram for the application below to outline the program’s desired functionality. 
 
 
-<h4 align="center"><img src="./assets/Use_Case_Diagram.png" alt="Use Case Diagram" height="300" width="500"></h4> 
+<h4 align="center"><img src="./assets/Use_Case_Diagram.png" alt="Use Case Diagram" height="300" width="400"></h4> 
 
 
 I researched and selected my development tools during the project’s design phase. I chose a MERN stack because it is a popular and scalable full-stack environment (MongoDB, 2021). The MERN stack uses MongoDB, Express, React, and Node.JS as its primary technologies. However, I added additional technologies for backend testing, such as Jest and Mongo Memory Server. I also included the ag-grid module and bootstrap for frontend styling. Researching these technologies gave me a deeper understanding of web development and how the pieces of full-stack applications interact. 
@@ -30,10 +30,10 @@ I researched and selected my development tools during the project’s design pha
 I began enhancements for this project by reinitializing the database in Mongo Atlas. The database was originally in a virtual lab environment provided by my university. Mongo Atlas allowed the node development server to interact with the database in the cloud. This program is an internal application to help non-technical staff manage the database, and it does not include a log-in feature. However, the default account follows the principle of least privilege and only has access to the animal collection. I also cleaned up the database by removing redundant fields and renaming variables to follow consistent naming conventions. Finally, I added variables to store image URLs and set the reserved status for search and rescue animals. These enhancements taught me how to work with Mongo Atlas from the mongo shell to manage my database. The images below show the improvements to the database schema.  
 
 
-<div>
-  <h4 align="left"><img src="./assets/Original_Database.png" alt="DB Schema 1" height="300" width="400"></h4> 
-  <h4 align="right"><img src="./assets/Updated_Database.png" alt="DB Schema 2" height="300" width="400"></h4> 
-</div>
+
+<h4 align="center"><img src="./assets/Original_Database.png" alt="DB Schema 1" height="300" width="500"></h4> 
+<h4 align="center"><img src="./assets/Updated_Database.png" alt="DB Schema 2" height="300" width="500"></h4> 
+
 
 
 Next, I developed middleware to update, delete, create, and search for rescue animals using Node.JS and Express. I structured the project into frontend and backend folders to manage the development server, middleware, and user interface. I used Jest and Mongo Memory Server for endpoint testing. I had no experience with Node or Express before working on these enhancements. I learned that Node is a powerful development tool that can guide many personal and professional projects in the future. I also gained experience with testing frameworks for full-stack development.
@@ -47,9 +47,19 @@ Finally, I developed the user interface to interact with my middleware using Rea
 
 Next, I developed the forms to add and edit search and rescue animals. I incorporated input validation to enhance security. I also developed an interactive navigation bar by adding a drop-down menu with filters for the different search and rescue types. The drop-down items change colors when hovering over selections. The navigation also includes links to view all shelter animals and intake animals. I included media queries to alter the display of the navigation element on smaller screens. These enhancements demonstrate my ability to develop responsive user interfaces for database management. The images below show samples of the user interface. 
 
-<h4 align="center"><img src="./assets/Display.png" alt="home screen" height="400" width="600"></h4> 
-<h4 align="center"><img src="./assets/All_Rescue_Nav.png" alt="all navigation" height="400" width="600"></h4> 
-
+<h4 align="center"><img src="./assets/Display.png" alt="home screen" height="500" width="800"></h4> 
+<h4 align="center"><img src="./assets/Mobile_View.png" alt="mobile view" height="800" width="400"></h4> 
+<h4 align="center"><img src="./assets/All_Rescue_Nav.png" alt="all navigation" height="500" width="800"></h4> 
+<h4 align="center"><img src="./assets/Mountain_Rescue_Nav.png" alt="mountain navigation" height="500" width="800"></h4>
+<h4 align="center"><img src="./assets/Table.png" alt="table" height="500" width="800"></h4>
+<div>
+  <div display="inline-block">
+    <h4 align="left"><img src="./assets/Add_Animal.png" alt="create form" height="500" width="300"></h4>
+  </div>
+  <div display="inline-block">
+    <h4 align="right"><img src="./assets/Edit_Form.png" alt="edit form" height="500" width="300"></h4>
+  </div>
+</div>
 
 I met all planned enhancements outlined in the project proposal and code review. These enhancements align with the course outcome [CS-499-01] “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science” (Southern New Hampshire University, 2021). These enhancements also align with the course outcome [CS-499-04] “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals” (Southern New Hampshire University, 2021). This project also met the security competency for the course by incorporating the principle of least privilege in database design and adding automated testing. Furthermore, the code review and project narrative gave me experience communicating design designs to project stakeholders. 
 
