@@ -52,12 +52,12 @@ Next, I developed the forms to add and edit search and rescue animals. I incorpo
 <h4 align="center"><img src="./assets/All_Rescue_Nav.png" alt="all navigation" height="500" width="800"></h4> 
 <h4 align="center"><img src="./assets/Mountain_Rescue_Nav.png" alt="mountain navigation" height="500" width="800"></h4>
 <h4 align="center"><img src="./assets/Table.png" alt="table" height="500" width="800"></h4>
-<div>
-  <div display="inline-block">
-    <h4 align="left"><img src="./assets/Add_Animal.png" alt="create form" height="500" width="300"></h4>
+<div class="block">
+  <div class="inline-block">
+    <h4><img src="./assets/Add_Animal.png" alt="create form" height="500" width="300"></h4>
   </div>
-  <div display="inline-block">
-    <h4 align="right"><img src="./assets/Edit_Form.png" alt="edit form" height="500" width="300"></h4>
+  <div class="inline-block">
+    <h4><img src="./assets/Edit_Form.png" alt="edit form" height="500" width="300"></h4>
   </div>
 </div>
 
