@@ -53,7 +53,7 @@ Next, I developed the forms to add and edit search and rescue animals. I incorpo
 <h4 align="center"><img src="./assets/Mountain_Rescue_Nav.png" alt="mountain navigation" height="500" width="800"></h4>
 <h4 align="center"><img src="./assets/Table.png" alt="table" height="500" width="800"></h4>
 <p float="left">
-    <img src="./assets/Add_Animal.png" alt="create form" height="500" width="300"><img src="./assets/Edit_Form.png" alt="edit form" height="500" width="300">
+    <img align="left"src="./assets/Add_Animal.png" alt="create form" height="500" width="300"><img align="right" src="./assets/Edit_Form.png" alt="edit form" height="500" width="300">
 </p>
 
 I met all planned enhancements outlined in the project proposal and code review. These enhancements align with the course outcome [CS-499-01] “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science” (Southern New Hampshire University, 2021). These enhancements also align with the course outcome [CS-499-04] “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals” (Southern New Hampshire University, 2021). This project also met the security competency for the course by incorporating the principle of least privilege in database design and adding automated testing. Furthermore, the code review and project narrative gave me experience communicating design designs to project stakeholders. 
