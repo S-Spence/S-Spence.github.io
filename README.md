@@ -48,7 +48,7 @@ Finally, I developed the user interface to interact with my middleware using Rea
 Next, I developed the forms to add and edit search and rescue animals. I incorporated input validation to enhance security. I also developed an interactive navigation bar by adding a drop-down menu with filters for the different search and rescue types. The drop-down items change colors when hovering over selections. The navigation also includes links to view all shelter animals and intake animals. I included media queries to alter the display of the navigation element on smaller screens. These enhancements demonstrate my ability to develop responsive user interfaces for database management. The images below show samples of the user interface. 
 
 <h4 align="center"><img src="./assets/Display.png" alt="home screen" height="500" width="800"></h4> 
-<h4 align="center"><img src="./assets/Mobile_View.png" alt="mobile view" height="800" width="400"></h4> 
+<h4 align="center"><img src="./assets/Mobile_View.png" alt="mobile view" height="600" width="400"></h4> 
 <h4 align="center"><img src="./assets/All_Rescue_Nav.png" alt="all navigation" height="500" width="800"></h4> 
 <h4 align="center"><img src="./assets/Mountain_Rescue_Nav.png" alt="mountain navigation" height="500" width="800"></h4>
 <h4 align="center"><img src="./assets/Table.png" alt="table" height="500" width="800"></h4>
