@@ -1,5 +1,45 @@
 ## Self Reflection
 
+The computer science program at Southern New Hampshire University shaped me both personally and professionally. This program offered flexibility in my course selections that allowed me to explore various areas of computer science and find my passion. I also developed a love for higher education and learning while working as a computer science tutor for the university. Furthermore, I did not believe that work and happiness could coincide before I began coding. Although my time with Southern New Hampshire University is coming to an end, the thirst for knowledge and skills that I have developed will guide my future goals.  
+
+The categories below outline skills I developed throughout my undergraduate program. 
+
+### Collaborating in a Team Environment:
+
+I had experience working in team environments before my undergraduate program. I worked in the restaurant industry for fourteen years, where I worked as a server, bartender, and manager in various teams. Throughout this time, I worked in a few high-performing teams where everything ran like clockwork no matter how deep the line of customers at the door grew. The consistencies among these teams were that no one ever said, “that’s not my job,” and no one ever stood around when their teammates were busy. Much like restaurants where someone will always have a tough table causing them to fall behind, in coding, someone will always have a blockage or something that did not go as expected. Therefore, teams optimize their productivity by utilizing downtime to help one another.
+
+I gained experience collaborating in software development environments throughout my undergraduate program. A course titled “Collaboration and Team Project” allowed students to manage a central repository and collaborate as a large team. There were several communication challenges and issues to overcome throughout the course. I started a thread in the online classroom’s general discussion forum as a place for students to communicate and coordinate code reviews. The class had a working repository at the end. However, my idea to collaborate in the discussion forums did not work as well as I had hoped. About ten students communicated in the discussion thread and helped resolve issues in the codebase. Looking back at this scenario, I would have suggested using a tool such as Slack or Microsoft Teams instead of the discussion forums to simplify communications. 
+
+I also gained experience working in software development teams during my internship with Unity Technologies. This internship was a great experience because I had never worked on a large-scale project in a professional development environment. I took an Agile course in my undergraduate program, and I was able to apply some of these skills during my time with Unity. I enjoyed daily standup meetings because the engineers in this team were incredibly knowledgeable and always willing to offer help if anyone was stuck. I am excited to work in another professional development environment after graduation. 
+
+### Communicating to Stakeholders:
+
+I also gained experience communicating with stakeholders during my time with Unity Technologies. I attended daily standup meetings where I explained to the team my progress from the day before, any blockages, and my plans for completing my current tasks. I gained more experience communicating with stakeholders during my computer science capstone class at Southern New Hampshire University. During this course, I was able to take my full-stack project from the planning phases to a production build on Heroku while reporting progress to my instructor each week. I incorporated my instructor’s feedback and polished my project throughout the course. The sections below outline the project’s enhancements. 
+ 
+### Data Structures and Algorithms:
+
+My first brush with data structures and algorithms was in my sophomore year in a class where I evaluated the trade-offs of various data structures and algorithms for a bid management system. This course introduced me to linked lists, hash tables, and binary trees. I also gained experience working with pointers and references in C++ throughout this class. I began studying data structures and algorithms in my spare time because I knew more experience in this area would be valuable to my future role as a software engineer. I practice coding challenges on Leetcode and HackerRank frequently. I have also found several courses on Udemy and MIT Open Courseware that substantiated my knowledge of more complex data structures and algorithms. Furthermore, I developed the GitHub repository outlined below to document my studies and prepare for interviews.
+
+### Software Engineering and Databases:
+
+My undergraduate program also gave me experience with databases. My coursework introduced both relational and non-relational databases. I learned that relational databases are better for complex queries. However, non-relational databases can be faster and more scalable for simple queries. I also learned how to design database schemas and use indexes to speed up frequently used queries. Furthermore, the full-stack application I completed for computer science capstone gave me more experience working with cloud-based databases. 
+
+My computer science program had an emphasis on software engineering. Therefore, several courses gave me experience with software design. I learned about the various development methodologies, such as waterfall, agile, and extreme programming. I also learned about the phases of software development and documentation best practices using UML diagrams. Furthermore, I developed multiple software projects from start to finish. My favorite project was a rescue animal search dashboard created for a client/server development class. I also enhanced this project for my computer science capstone by converting it to a more popular full-stack framework. I outlined these enhancements in the sections below. 
+
+### Security:
+
+A secure coding class in C/C++ gave me experience with software security. This course taught me about the vulnerabilities associated with lower-level programming languages when developers are not careful with memory management. I learned about buffer overflows, SQL injections, and data encryption. The two artifacts below outline the knowledge gained from this course. The first document is a security policy written for a theoretical company, and the second artifact is a presentation of this security.
+
+[Security Policy](https://docs.google.com/document/d/1k9o2qjUcBDH1NAI6yzLR3i8z5294ZvHBHknuxbjAIFc)
+
+[Security Policy Presentation](https://www.youtube.com/watch?v=uXrag4p-264)
+
+## Portfolio Introduction
+
+The artifacts below include enhancements to two projects completed for my computer science capstone course. The first project is a search and rescue animal application from a client/server development course. The project initially used MongoDB, PyMongo, and Dash for the technologies. The application allowed a theoretical company’s staff to search the database for trained rescue dogs. I enhanced this project by converting it to a more popular full-stack framework and adding three features to simplify database management. This project demonstrated competencies in databases, software design, and software engineering. This project also gave me experience deploying a production build of my application. The sections below outline these enhancements.
+
+The second project was a personal repository I developed for interview preparation. This artifact demonstrates competencies in data structures and algorithms. I enhanced this project by adding twelve coding challenges to substantiate my understanding of graphs, tries, and dynamic programming. I also improved some inconsistencies in file comments and testing. The code review below shows the original versions of these projects and my proposed improvements. The subsequent sections outline the enhancements completed for my computer science capstone. 
+
 ## Code Review
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ScKbzAVPAAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -7,6 +47,8 @@
 
 
 ## Artifact One: Search and Rescue Animal Full-Stack Application
+
+[View the production Build on Heroku](https://rescue-animal-capstone.herokuapp.com/)
 
 [Orginal Project Code](https://github.com/S-Spence/Rescue_Animal_Search_Dashboard "Rescue Animal Project")
 
