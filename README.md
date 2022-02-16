@@ -14,7 +14,7 @@ I also gained experience working in software development teams during my interns
 
 ### Communicating to Stakeholders:
 
-I also gained experience communicating with stakeholders during my time with Unity Technologies. I attended daily standup meetings where I explained to the team my progress from the day before, any blockages, and my plans for completing my current tasks. I gained more experience communicating with stakeholders during my computer science capstone class at Southern New Hampshire University. During this course, I was able to take my full-stack project from the planning phases to a production build on Heroku while reporting progress to my instructor each week. I incorporated my instructor’s feedback and polished my project throughout the course. The sections below outline the project’s enhancements. 
+I also gained experience communicating with stakeholders during my time with Unity Technologies. I attended daily standup meetings where I explained to the team my progress from the day before, any blockages, and my plans for completing my current tasks. I gained more experience communicating with stakeholders during my computer science capstone class at Southern New Hampshire University. During this course, I took a full-stack project from the planning phases to a production build on Heroku while reporting progress to my instructor each week. I incorporated my instructor’s feedback and polished my project throughout the course. The sections below outline the project’s enhancements. 
  
 ### Data Structures and Algorithms:
 
@@ -24,7 +24,7 @@ My first brush with data structures and algorithms was in my sophomore year in a
 
 My undergraduate program also gave me experience with databases. My coursework introduced both relational and non-relational databases. I learned that relational databases are better for complex queries. However, non-relational databases can be faster and more scalable for simple queries. I also learned how to design database schemas and use indexes to speed up frequently used queries. Furthermore, the full-stack application I completed for computer science capstone gave me more experience working with cloud-based databases. 
 
-My computer science program had an emphasis on software engineering. Therefore, several courses gave me experience with software design. I learned about the various development methodologies, such as waterfall, agile, and extreme programming. I also learned about the phases of software development and documentation best practices using UML diagrams. Furthermore, I developed multiple software projects from start to finish. My favorite project was a rescue animal search dashboard created for a client/server development class. I also enhanced this project for my computer science capstone by converting it to a more popular full-stack framework. I outlined these enhancements in the sections below. 
+My computer science program had an emphasis on software engineering. Therefore, several courses gave me experience with software design. I learned about the various development methodologies, such as waterfall, agile, and extreme programming. I also learned about the phases of software development and documentation best practices using UML diagrams. Furthermore, I developed multiple software projects from start to finish. My favorite project was a rescue animal search dashboard created for a client/server development class. I enhanced this project for my computer science capstone by converting it to a more popular full-stack framework. I outlined these enhancements in the sections below. 
 
 ### Security:
 
@@ -48,7 +48,7 @@ The second project was a personal repository I developed for interview preparati
 
 ## Artifact One: Search and Rescue Animal Full-Stack Application
 
-[View the production Build on Heroku](https://rescue-animal-capstone.herokuapp.com/)
+[View the Production Build on Heroku](https://rescue-animal-capstone.herokuapp.com/ "Final deployment")
 
 [Orginal Project Code](https://github.com/S-Spence/Rescue_Animal_Search_Dashboard "Rescue Animal Project")
 
@@ -78,7 +78,7 @@ I began enhancements for this project by reinitializing the database in Mongo At
 
 
 
-Next, I developed middleware to update, delete, create, and search for rescue animals using Node.JS and Express. I structured the project into frontend and backend folders to manage the development server, middleware, and user interface. I used Jest and Mongo Memory Server for endpoint testing. I had no experience with Node or Express before working on these enhancements. I learned that Node is a powerful development tool that can guide many personal and professional projects in the future. I also gained experience with testing frameworks for full-stack development.
+Next, I developed middleware to update, delete, create, and search for rescue animals using Node.JS and Express. I structured the project into frontend and backend folders to manage the development server, middleware, and user interface. I used Jest and Mongo Memory Server for endpoint testing. I had no experience with Node or Express before working on these enhancements. I learned that Node is a powerful development tool that can guide many personal and professional projects in the future. I also gained experience with testing frameworks for full-stack development. The image below demonstrates test execution.
 
 
 <h4 align="center"><img src="./assets/Tests.png" alt="backend tests" height="300" width="500"></h4> 
@@ -98,7 +98,7 @@ Next, I developed the forms to add and edit search and rescue animals. I incorpo
     <img src="./assets/Add_Animal.png" alt="create form" height="500" width="300">     <img src="./assets/Edit_Form.png" alt="edit form" height="500" width="300">
 </p>
 
-I met all planned enhancements outlined in the project proposal and code review. These enhancements align with the course outcome [CS-499-01] “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science” (Southern New Hampshire University, 2021). These enhancements also align with the course outcome [CS-499-04] “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals” (Southern New Hampshire University, 2021). This project also met the security competency for the course by incorporating the principle of least privilege in database design and adding automated testing. Furthermore, the code review and project narrative gave me experience communicating design designs to project stakeholders. 
+I met all planned enhancements outlined in the project proposal and code review. These enhancements align with the course outcome [CS-499-01] “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science” (Southern New Hampshire University, 2021). These enhancements also align with the course outcome [CS-499-04] “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals” (Southern New Hampshire University, 2021). This project also met the security competency for the course by incorporating the principle of least privilege in database design and adding automated testing. Furthermore, the code review and project narratives gave me experience communicating design decisions to project stakeholders. 
 
 
 ### Reflection
@@ -165,7 +165,7 @@ I also fixed the structural inconsistencies in the strings and arrays folder out
 **Graphs and Tries:**
 - **Prefix Trie:** Implement a trie with insert, search, and starts_with methods. 
 - **Time Needed to Inform Employees:** A company has n employees with unique IDs from 0 to n-1. The head of the company has the ID headID. You will receive a manger’s array where mangers[i] is the ID of the manager for employee i. Each employee has one direct manager. The company head has no manager, and the ID is set to -1. It is guaranteed that subordination relationships will have a tree structure. The head of the company wants to inform all employees of the news. He will inform his direct subordinates, who will inform their direct subordinates, etc. You will also receive an inform time array, where inform_time[i] is the time it takes employee i to inform all subordinates. Return the total number of minutes it takes to inform all employees of the news.
-- **Network Time Delay:** There are n network nodes labeled 1 to n. You are given a times array containing edges represented by arrays [u, v, w], where u is the source node, v is the target node, and w is the time taken to travel between nodes. Send a signal from node k and return the time it takes for all nodes the receive the signal. Return -1 if it is impossible.
+- **Network Time Delay:** There are n network nodes labeled 1 to n. You are given a times array containing edges represented by arrays [u, v, w], where u is the source node, v is the target node, and w is the time taken to travel between nodes. Send a signal from node k and return the time it takes for all nodes to receive the signal. Return -1 if it is impossible.
 - **Course Scheduler:** There are a total of n courses to take, labeled from 0 to n-1. Some courses have prerequisite courses. This is expressed as a pair, i.e. [0, 1], to indicate you must take course 0 before course 1. Given the total number of courses and an array of prerequisite pairs, return if it is possible to finish all courses.  
 
 
@@ -174,7 +174,7 @@ Several of these scripts incorporated multiple solutions to evaluate the trade-o
 
 ### Reflection
 
-Enhancing the data structures and algorithms repository was a valuable learning experience. I faced some challenges understanding how to work with graphs at first. At first, it was challenging to understand the use cases for adjacency arrays and adjacency matrices when representing graphs. I learned from an interview preparation class on Udemy that adjacency arrays are generally better than adjacency matrices unless the graph is close to complete or contains cycles (Neagoie, 2021). I also found it challenging to identify graph challenges since these questions do not specify when a graph may help. I now understand that a graph works when given an array or multiple arrays with dependencies mapped by index values.
+Enhancing the data structures and algorithms repository was a valuable learning experience. I faced some challenges understanding how to work with graphs. At first, it was challenging to understand the use cases for adjacency arrays and adjacency matrices when representing graphs. I learned from an interview preparation class on Udemy that adjacency arrays are generally better than adjacency matrices unless the graph is close to complete or contains cycles (Neagoie, 2021). I also found it challenging to identify graph challenges since these questions do not specify when a graph may help. I now understand that a graph works when given an array or multiple arrays with dependencies mapped by index values.
 
 
 The graph challenges gave me a deeper understanding of how these data structures work and made me more confident for interviews. My favorite challenge added to this section was the “network time delay” script. This challenge used Dijkstra’s algorithm and the Bellman-Ford algorithm. These algorithms both find the shortest path through a directed, weighted graph. The Bellman-Ford algorithm differs because it can handle edges with negative weights, and Dijkstra’s algorithm cannot (Neagoie, 2022). I included more detailed notes about both algorithms in the script’s comments. I also found it extremely beneficial to practice more with tries since this question has stumped me in interviews in the past. After my enhancements to this repository, I am more confident implementing tries in coding interviews.
