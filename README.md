@@ -1,4 +1,4 @@
-## Self Reflection
+## Self-Reflection
 
 The computer science program at Southern New Hampshire University shaped me both personally and professionally. This program offered flexibility in my course selections that allowed me to explore various areas of computer science and find my passion. I also developed a love for higher education and learning while working as a computer science tutor for the university. Furthermore, I did not believe that work and happiness could coincide before I began coding. Although my time with Southern New Hampshire University is coming to an end, the thirst for knowledge and skills that I have developed will guide my future goals.  
 
@@ -18,7 +18,7 @@ I also gained experience communicating with stakeholders during my time with Uni
  
 ### Data Structures and Algorithms:
 
-My first brush with data structures and algorithms was in my sophomore year in a class where I evaluated the trade-offs of various data structures and algorithms for a bid management system. This course introduced me to linked lists, hash tables, and binary trees. I also gained experience working with pointers and references in C++ throughout this class. I began studying data structures and algorithms in my spare time because I knew more experience in this area would be valuable to my future role as a software engineer. I practice coding challenges on Leetcode and HackerRank frequently. I have also found several courses on Udemy and MIT Open Courseware that substantiated my knowledge of more complex data structures and algorithms. Furthermore, I developed the GitHub repository outlined below to document my studies and prepare for interviews.
+My first brush with data structures and algorithms was in my sophomore year in a class where I evaluated the trade-offs of various data structures and algorithms for a bid management system. This course introduced me to linked lists, hash tables, and binary trees. I also gained experience working with pointers and references in C++ throughout this class. I began studying data structures and algorithms in my spare time because I knew more experience in this area would be valuable to my future role as a software engineer. I practice coding challenges on Leetcode and Hackerrank frequently. I have also found several courses on Udemy and MIT Open Courseware that substantiated my knowledge of more complex data structures and algorithms. Furthermore, I developed the GitHub repository outlined below to document my studies and prepare for interviews.
 
 ### Software Engineering and Databases:
 
@@ -50,7 +50,7 @@ The second project was a personal repository I developed for interview preparati
 
 [View the Production Build on Heroku](https://rescue-animal-capstone.herokuapp.com/ "Final deployment")
 
-[Orginal Project Code](https://github.com/S-Spence/Rescue_Animal_Search_Dashboard "Rescue Animal Project")
+[Original Project Code](https://github.com/S-Spence/Rescue_Animal_Search_Dashboard "Rescue Animal Project")
 
 [Enhanced Project Code](https://github.com/S-Spence/Rescue_Animal_Capstone_Project "Rescue Animal Capstone Project")
 
@@ -156,7 +156,7 @@ I also fixed the structural inconsistencies in the strings and arrays folder out
 
 **2D Arrays:**
 - **Rotting Oranges:** You are given an array containing 0s (empty cells), 1s (oranges), and 2s (rotting oranges). Every minute, all fresh oranges immediately adjacent to rotting oranges rot. How many minutes will pass before all oranges are rotten?
-- **Rotate Matrix 90 Degrees:** Rotate a matrix 90 degrees clockwise. Follow-up: rotate counter-clockwise. 
+- **Rotate Matrix 90 Degrees:** Rotate a matrix 90 degrees clockwise. Follow-up: rotate counterclockwise. 
 - **Set Matrix Zeros:** Given an m x n integer matrix, if an element is zero, set its entire row and column to zeros in place and return the matrix.
 - **Spiral Matrix:** Given an integer matrix, print its elements in spiral order.
 - **Wall and Gates:** Given a 2D array containing -1s (walls), 0s (gates), and INFs (empty rooms), fill each empty room with the number of steps to the nearest gate. If it is not possible to reach a gate, leave INF as the value.
@@ -180,7 +180,7 @@ Enhancing the data structures and algorithms repository was a valuable learning 
 The graph challenges gave me a deeper understanding of how these data structures work and made me more confident for interviews. My favorite challenge added to this section was the “network time delay” script. This challenge used Dijkstra’s algorithm and the Bellman-Ford algorithm. These algorithms both find the shortest path through a directed, weighted graph. The Bellman-Ford algorithm differs because it can handle edges with negative weights, and Dijkstra’s algorithm cannot (Neagoie, 2022). I included more detailed notes about both algorithms in the script’s comments. I also found it extremely beneficial to practice more with tries since this question has stumped me in interviews in the past. After my enhancements to this repository, I am more confident implementing tries in coding interviews.
 
 
-Working on the dynamic programming challenges was also a valuable learning experience because I had not practiced much with dynamic programming. The scripts included in this folder evaluated both top-down and bottom-up dynamic programming. For example, in the “minimum cost of climbing stairs” challenge, the top-down approach started at the top stair and worked backward, and the bottom-up approach built the solution starting from the base case. The bottom-up approach optimized the algorithm’s space complexity to O(1). However, the bottom-up approach is not always as intuitive as the top-down method, and it may require trying both to get to the final solution (Neagoie, 2022). I found it difficult to understand these techniques, and I had to rewatch tutorials multiple times to comprehend dynamic programming. Including three new dynamic programming scripts gave me a better understanding of this coding paradigm.
+Working on the dynamic programming challenges was also a valuable learning experience because I had not practiced much with dynamic programming. The scripts included in this folder evaluated both top-down and bottom-up dynamic programming. For example, in the “minimum cost of climbing stairs” challenge, the top-down approach started at the top stair and worked backward, and the bottom-up approach built the solution starting from the base case. The bottom-up approach optimized the algorithm’s space complexity to O(1). However, the bottom-up approach is not always as intuitive as the top-down method, and it may require trying both to get to the final solution (Neagoie, 2022). I found it difficult to understand these techniques, and I had to re-watch tutorials multiple times to comprehend dynamic programming. Including three new dynamic programming scripts gave me a better understanding of this coding paradigm.
 
 
 <h3 align="center">References</h3>
