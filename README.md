@@ -48,6 +48,10 @@ The second project was a personal repository I developed for interview preparati
 
 ## Artifact One: Search and Rescue Animal Full-Stack Application
 
+<p align="center">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Xarc4WNVO9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 [View the Production Build on Heroku](https://rescue-animal-capstone.herokuapp.com/ "Final deployment")
 
 [Original Project Code](https://github.com/S-Spence/Rescue_Animal_Search_Dashboard "Rescue Animal Project")
